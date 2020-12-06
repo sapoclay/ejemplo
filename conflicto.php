@@ -3,8 +3,11 @@
  * 
  * */
 <?php
-	echo "Esta es la primera línea del archivo conflicto.php";
 
+for($i=0;$i<5;$i++){
 
+	echo "Esta es la línea ".$i." del archivo conflicto.php";
+
+}
 
 ?>
